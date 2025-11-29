@@ -47,6 +47,6 @@
 ---
 
 <p align="center">
-  🧭 <em>“Mühendis olmak zordur, ahlaklı mühendis olmak gereklidir.”</em><br>
+  🧭 <em>“Mühendis olmak zordur; ahlaklı bir mühendis olmak ise gereklidir.”</em><br>
   <em>“Being an engineer is hard, being an ethical engineer is essential.”</em>
 </p>
